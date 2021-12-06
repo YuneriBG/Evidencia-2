@@ -1,2 +1,6 @@
 # Evidencia-2
-A01274925  Desarrollo de sistemas digitales (Gpo 501)  Situación Problema  Campus Guadalajara  Evidencia 2 LCD
+A01274925 
+Desarrollo de sistemas digitales (Gpo 501)  
+Situación Problema 
+Campus Guadalajara 
+Evidencia 2 LCD
